@@ -1,3 +1,7 @@
 .ekhym {
     background: aqua;
 }
+
+.adjacent h3 + p{
+    color: #5c005c;
+}
